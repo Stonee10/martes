@@ -1,0 +1,20 @@
+img{
+    width: 300px;
+    margin-left: -2px;
+    margin-right: -2px;
+}
+figure{
+    width: 900px;
+    background-color: bisque;
+    margin: auto;
+    text-align: center;
+    border: 4px solid black;
+    margin-top: 75px;
+}
+h1{
+    background-color: aquamarine;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
